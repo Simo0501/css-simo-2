@@ -1,7 +1,10 @@
 h1{
-    font-size: 300px;
+    font-size: 200px;
     color: blue;
 }
 #title-page{
     background-color: blueviolet;
+}
+.paragraph{
+    font-size: 20px;
 }
